@@ -49,6 +49,22 @@ RESTful APIs, and exploring cloud and blockchain technologies.
 ### Currently Learning
 AWS • Solidity • Blockchain Infrastructure • DevOps
 
+### 📻 Kasi FM — Community Radio Platform
+
+A community-focused digital radio platform built to make
+local radio accessible through mobile technology.
+
+**Technologies:** Java, Android (XML), Spring Boot,
+REST APIs, SQL, Docker and GitHub Actions.
+
+**My contributions:**
+- Developed an Android application for radio streaming.
+- Built a Spring Boot REST API for radio schedules.
+- Implemented backend endpoints for managing programmes.
+- Worked on CI/CD automation and deployment preparation.
+
+**Status:** In Development
+
 ### 🌐 Instagram Feed API
 REST API built with Node.js and Express.js to retrieve
 Instagram content for website integration.
