@@ -16,24 +16,38 @@ RESTful APIs, and exploring cloud and blockchain technologies.
 - ⛓️ Member of the Africa Blockchain Club
 - 🧠 Currently improving my Data Structures & Algorithms
 - 🤝 Open to internships, junior roles and collaborations
-
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL
+### Languages
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+</p>
 
-**Backend:** Spring Boot, Node.js, Express.js, REST APIs
+### Backend & Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" title="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" title="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
+</p>
 
-**Frontend:** React, Next.js, HTML, CSS
+### Databases & Developer Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" title="GitLab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" />
+</p>
 
-**Tools:** Git, GitHub, GitLab, Docker, GitHub Actions
-
-**Learning:** AWS, Blockchain Infrastructure, Solidity
-
-## 📌 Featured Projects
-
-### 📻 Kasi FM
-Community radio platform with an Android application
-and a Spring Boot backend.
+### Currently Learning
+AWS • Solidity • Blockchain Infrastructure • DevOps
 
 ### 🌐 Instagram Feed API
 REST API built with Node.js and Express.js to retrieve
